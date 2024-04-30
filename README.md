@@ -1,8 +1,7 @@
-# React + Vite
+# Preview
+https://github.com/WizzzStark/CoverTransition_React_GSAP/assets/85120579/80feca6b-a3dd-4994-88cb-43b3a9998227
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Details
+This is a refactored version made with React using Refs logic and GSAP of a cover transition animation based on [this dribble shot](https://dribbble.com/shots/16788118-Design-Conference-Promo-Animation) and Manoelia Ilic's original idea built in native js.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with educational purposes
